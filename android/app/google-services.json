@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "51086223715",
+    "project_id": "percobaan-bbd70",
+    "storage_bucket": "percobaan-bbd70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51086223715:android:1f455a3d42d31cfe528b56",
+        "android_client_info": {
+          "package_name": "com.example.todo_aplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51086223715-ggqnendehap410akm2qhn82apc7rj3n0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todo_aplication",
+            "certificate_hash": "d440ec757cf1412123b9943724dfee7b0f5eda1b"
+          }
+        },
+        {
+          "client_id": "51086223715-vs40opb0pb3jeqdcp7nesiv3jpmcl1uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBO9q53sihAKfiP7DVxwlRtQYsEdiVO6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51086223715-vs40opb0pb3jeqdcp7nesiv3jpmcl1uh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "51086223715-gqq2vt0c8jdloh4f1j8gkdk6nlg4p3qo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.percobaan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51086223715:android:29b2969d744d225c528b56",
+        "android_client_info": {
+          "package_name": "id.primakom.micereborn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51086223715-vs40opb0pb3jeqdcp7nesiv3jpmcl1uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBO9q53sihAKfiP7DVxwlRtQYsEdiVO6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51086223715-vs40opb0pb3jeqdcp7nesiv3jpmcl1uh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "51086223715-gqq2vt0c8jdloh4f1j8gkdk6nlg4p3qo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.percobaan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
